@@ -61,3 +61,18 @@ The Repo HIGHER LEVEL PROGRAMMING will contain everything about Python
 		What is sequence unpacking
 		What is the del statement and how to use it
 	}
+
+5.	0x04-python-more_data_structures{The fifth directory for this project contains the concept:}
+	{
+		Why Python programming is awesome
+		What are sets and how to use them
+		What are the most common methods of set and how to use them
+		When to use sets versus lists
+		How to iterate into a set
+		What are dictionaries and how to use them
+		When to use dictionaries versus lists or sets
+		What is a key in a dictionary
+		How to iterate over a dictionary
+		What is a lambda function
+		What are the map, reduce and filter functions
+	}
