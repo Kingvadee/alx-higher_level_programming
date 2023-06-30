@@ -1,10 +1,15 @@
 #!/usr/bin/python3
+# 2-square.py
+"""Square class defination."""
+
+
 class Square:
-    """Type class square"""
+    """Square class body"""
+
     def __init__(self, size=0):
-        """Init the square classs
+        """Square class contructor
         Args:
-        param1: size is the type int attribute to make it private
+            size (int): The size of the new square.
         """
         if not isinstance(size, int):
             raise TypeError("size must be an integer")
