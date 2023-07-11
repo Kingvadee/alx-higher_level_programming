@@ -128,7 +128,7 @@ The Repo HIGHER LEVEL PROGRAMMING will contain everything about Python
 	{
 		Why Python programming is awesome
 		What is OOP
-		“first-class everything”
+		first-class everything”
 		What is a class
 		What is an object and an instance
 		What is the difference between a class and an object or instance
@@ -152,4 +152,37 @@ The Repo HIGHER LEVEL PROGRAMMING will contain everything about Python
 		What is and what does contain __dict__ of a class and of an instance of a class
 		How does Python find the attributes of an object or class
 		How to use the getattr function
+	}
+
+10.     0x0A-python-inheritance{The Tenth directory for this project cotains the concept:}
+	{
+		Why Python programming is awesome
+		What is a superclass, baseclass or parentclass
+		What is a subclass
+		How to list all attributes and methods of a class or instance
+		When can an instance have new attributes
+		How to inherit class from another
+		How to define a class with multiple base classes
+		What is the default class every class inherit from
+		How to override a method or attribute inherited from the base class
+		Which attributes or methods are available by heritage to subclasses
+		What is the purpose of inheritance
+		What are, when and how to use isinstance, issubclass, type and super built-in functions
+	}
+
+11.	0x0B-python-input_output{The Eleventh directory for this project cotains the concept:}
+	{
+		Why Python programming is awesome
+		How to open a file
+		How to write text in a file
+		How to read the full content of a file
+		How to read a file line by line
+		How to move the cursor in a file
+		How to make sure a file is closed after using it
+		What is and how to use the with statement
+		What is JSON
+		What is serialization
+		What is deserialization
+		How to convert a Python data structure to a JSON string
+		How to convert a JSON string to a Python data structure
 	}
