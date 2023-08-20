@@ -1,6 +1,6 @@
 AUTHOR:		DAVID OJEIFO[https://github.com/Kingvadee].
 COHORT:		13.
-Repo:		LOW LEVEL PROGRAMMING.
+Repo:		HIGH LEVEL PROGRAMMING.
 Directory:	0x0D-SQL_introduction.
 
 <<<<<[TASKS]>>>>>>
